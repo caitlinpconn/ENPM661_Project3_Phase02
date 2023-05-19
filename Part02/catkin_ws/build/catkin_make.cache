@@ -1,0 +1,2 @@
+proj3_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/caitlin/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/caitlin/catkin_ws/install -G Unix Makefiles

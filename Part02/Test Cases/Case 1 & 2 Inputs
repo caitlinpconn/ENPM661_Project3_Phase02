@@ -1,0 +1,44 @@
+Case 1 Inputs
+
+Enter robot clearance between 0 and 15: 10
+Robot Clearance: 10
+
+Enter robot Revolutions per Minute (RPM1) integer value between 10 and 55: 10
+Robot RPM1: 10
+
+Enter robot Revolutions per Minute (RPM2) integer value between 10 and 55: 50
+Robot RPM2: 50
+
+Enter start node's x coordinate. x coordinate can range from 0 to 599: 50
+Enter start node's y coordinate. y coordinate can range from 0 to 199: 100
+Enter the orientation of the robot at the start point in degrees: 0
+Start node x-coordinate: 50
+Start node y-coordinate: 100
+
+Enter goal node's x coordinate. x coordinate can range from 0 to 599: 100
+Enter goal node's y coordinate. y coordinate can range from 0 to 199: 25
+Goal node x-coordinate: 100
+Goal node y-coordinate: 25
+_________________________________________________________________________________
+
+Case 2 Inputs
+
+Enter robot clearance between 0 and 15: 10
+Robot Clearance: 10
+
+Enter robot Revolutions per Minute (RPM1) integer value between 10 and 55: 10
+Robot RPM1: 10
+
+Enter robot Revolutions per Minute (RPM2) integer value between 10 and 55: 50
+Robot RPM2: 50
+
+Enter start node's x coordinate. x coordinate can range from 0 to 599: 50
+Enter start node's y coordinate. y coordinate can range from 0 to 199: 100
+Enter the orientation of the robot at the start point in degrees: 30
+Start node x-coordinate: 50
+Start node y-coordinate: 100
+
+Enter goal node's x coordinate. x coordinate can range from 0 to 599: 500
+Enter goal node's y coordinate. y coordinate can range from 0 to 199: 25
+Goal node x-coordinate: 500
+Goal node y-coordinate: 25
