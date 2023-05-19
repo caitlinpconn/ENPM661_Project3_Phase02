@@ -1,0 +1,64 @@
+Caitlin Conn Project 3 Phase 2 Part 1 Case 2:
+
+Enter robot clearance between 0 and 15: 10
+Robot Clearance: 10
+
+Enter robot Revolutions per Minute (RPM1) integer value between 10 and 55: 10
+Robot RPM1: 10
+
+Enter robot Revolutions per Minute (RPM2) integer value between 10 and 55: 50
+Robot RPM2: 50
+
+Enter start node's x coordinate. x coordinate can range from 0 to 599: 50
+Enter start node's y coordinate. y coordinate can range from 0 to 199: 100
+Enter the orientation of the robot at the start point in degrees: 30
+Start node x-coordinate: 50
+Start node y-coordinate: 100
+
+Enter goal node's x coordinate. x coordinate can range from 0 to 599: 500
+Enter goal node's y coordinate. y coordinate can range from 0 to 199: 25
+Goal node x-coordinate: 500
+Goal node y-coordinate: 25
+
+_______________________________________________________________________________________
+
+Map Created and User Input Saved
+
+Main code execution has started...
+
+Debug Counter:  5000
+Current Parent Node:
+((226.57147542009707, 30.093792115701653), (824.2760263932516, 6747, 6180, (227.51104888293966, 25.03529150711062), 85.71574550852918, 277.324091495639))
+
+Debug Counter:  10000
+Current Parent Node:
+((227.13602833151492, 60.08934703166599), (843.0967824406827, 10450, 10044, (228.72142469456193, 55.19468207160679), 122.85957584754863, 292.87497513090864))
+
+Debug Counter:  15000
+Current Parent Node:
+((203.1758227960719, 43.89677980552384), (849.7118715766466, 13650, 12648, (205.08817294563033, 40.07953427418677), 135.2408526272218, 254.86170402247203))
+
+Debug Counter:  20000
+Current Parent Node:
+((185.83199080192625, 56.581066191896504), (844.8953389318461, 25422, 25421, (181.6332919864291, 49.03058199947674), 60.9531919491829, 213.39268099508692))
+
+Debug Counter:  25000
+Current Parent Node:
+((444.1106791097799, 10.546249719073508), (713.3011703711428, 31774, 31769, (438.9716268414251, 10.298523090888878), 17.618723220326892, 597.8450819781373))
+
+Last Child Node (Goal Node): 
+ ((497.2159004435019, 28.362180797035045), (662.7315649763623, 31820, 31815, (493.51785709410376, 26.22842309593554), 654.0010506610555))
+
+Problem solved, now backtrack to find optimal path!
+
+_______________________________________________________________________________________
+
+Was goal found ? ->  True
+
+- Problem solved in (hours:min:sec:milliseconds) (Method 1): 00:00:13.50
+- Problem solved in (hours:min:sec:milliseconds) (Method 2): 0:00:13.499867
+
+Start node coordinate input: (50, 100)
+Goal node coordinate input: (500, 25)
+
+Astar and Visual Code Complete.

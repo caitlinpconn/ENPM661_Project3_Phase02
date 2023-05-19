@@ -1,0 +1,52 @@
+Caitlin Conn Project 3 Phase 2 Part 1 Case 1:
+
+Enter robot clearance between 0 and 15: 5
+Robot Clearance: 5
+
+Enter robot Revolutions per Minute (RPM1) integer value between 10 and 55: 10
+Robot RPM1: 10
+
+Enter robot Revolutions per Minute (RPM2) integer value between 10 and 55: 50
+Robot RPM2: 50
+
+
+ 
+Important
+Figures are displayed in the Plots pane by default. To make them also appear inline in the console, you need to uncheck "Mute inline plotting" under the options menu of Plots.
+ Enter start node's x coordinate. x coordinate can range from 0 to 599: 10
+Enter start node's y coordinate. y coordinate can range from 0 to 199: 11
+Enter the orientation of the robot at the start point in degrees: 0
+Start node x-coordinate: 10
+Start node y-coordinate: 11
+
+Enter goal node's x coordinate. x coordinate can range from 0 to 599: 575
+Enter goal node's y coordinate. y coordinate can range from 0 to 199: 175
+Goal node x-coordinate: 575
+Goal node y-coordinate: 175
+
+_______________________________________________________________________________________
+
+Map Created and User Input Saved
+
+Main code execution has started...
+
+Debug Counter:  5000
+Current Parent Node:
+((230.16482315326888, 28.78803708980891), (993.5985459422229, 2247, 1913, (234.71653300611283, 26.38946165536514), 167.14723652558754, 244.49444826562518))
+
+Last Child Node (Goal Node): 
+ ((576.5462533134734, 178.59143343842928), (698.1067510347762, 9744, 9740, (574.5336350873008, 182.35677730276717), 690.2864458100179))
+
+Problem solved, now backtrack to find optimal path!
+
+_______________________________________________________________________________________
+
+Was goal found ? ->  True
+
+- Problem solved in (hours:min:sec:milliseconds) (Method 1): 00:00:01.91
+- Problem solved in (hours:min:sec:milliseconds) (Method 2): 0:00:01.905483
+
+Start node coordinate input: (10, 11)
+Goal node coordinate input: (575, 175)
+
+Astar and Visual Code Complete.

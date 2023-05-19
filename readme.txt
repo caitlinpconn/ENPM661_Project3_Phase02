@@ -1,6 +1,8 @@
-Caitlin Conn ENPM661 Project 3 Phase 2 Part 1 Readme.txt 
+Caitlin Conn ENPM661 Project 3 Phase 2 Readme.txt 
 
-This text provides the necessary instructions to run the astar_caitlin_conn_submission.py file to output the results for 
+This text provides the necessary instructions to run code associated with Project 3 Phase 2 Parts 1 & 2.
+
+This following section provides the necessary instructions to run the astar_proj3_phase1_part1.py file to output the results for 
 an A* Algorithm Approach for a robot forward search problem.
 
 ###############################################################################################################################
@@ -50,9 +52,9 @@ To run the code to solve the search problem using Astar algorithm in Python, per
 If using a command line terminal, put the astar_caitlin_conn_submission.py file in the current working directory and enter the following 
 command in the terminal to run the python program using Python 3 version:
  
-	python3 ./astar_caitlin_conn_submission
+	python3 ./astar_proj3_phase1_part1
 	
-Otherwise, use an IDE to open and run the astar_caitlin_conn_submission.py file, by hitting the 'run' button.
+Otherwise, use an IDE to open and run the astar_proj3_phase1_part1.py file, by hitting the 'run' button.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
